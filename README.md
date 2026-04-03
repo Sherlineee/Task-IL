@@ -1,16 +1,36 @@
-# task_2_il_dart_function
+# 🚀 Dart Function Flutter App
 
-A new Flutter project.
+## 📌 Deskripsi
+Project ini merupakan aplikasi Flutter sederhana yang mengimplementasikan konsep **Function dalam Dart**.
 
-## Getting Started
+Terdapat 3 fitur utama:
+- Menyapa (Greeting)
+- Kalkulator Luas Persegi
+- Kalkulator Diskon
 
-This project is a starting point for a Flutter application.
+Setiap fitur menggunakan **4 tipe function**, yaitu:
+1. Tanpa parameter & tanpa return
+2. Tanpa parameter & dengan return
+3. Dengan parameter & tanpa return
+4. Dengan parameter & dengan return
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Teknologi
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Fitur
+- Input nama untuk menyapa user
+- Menghitung luas persegi
+- Menghitung diskon harga
+- Hasil ditampilkan langsung di masing-masing bagian
+
+---
+
+## ▶️ Cara Menjalankan
+```bash
+flutter pub get
+flutter run
