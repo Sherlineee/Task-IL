@@ -35,6 +35,7 @@ Setiap fitur menggunakan **4 tipe function**, yaitu:
 flutter pub get
 flutter run
 
+---
 
 ## 📸 Tampilan Aplikasi
 
