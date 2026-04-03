@@ -16,6 +16,14 @@ Setiap fitur menggunakan **4 tipe function**, yaitu:
 
 ---
 
+## 📸 Tampilan Aplikasi
+
+<p align="center">
+  <img src="screenshot.png" width="500"/>
+</p>
+
+---
+
 ## 🧠 Teknologi
 - Flutter
 - Dart
