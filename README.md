@@ -29,12 +29,10 @@ Setiap fitur menggunakan **4 tipe function**, yaitu:
 - Hasil ditampilkan langsung di masing-masing bagian
 
 ---
-
 ## ▶️ Cara Menjalankan
 ```bash
 flutter pub get
-flutter run```
-
+flutter run
 ---
 
 ## 📸 Tampilan Aplikasi
