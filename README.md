@@ -33,7 +33,7 @@ Setiap fitur menggunakan **4 tipe function**, yaitu:
 ## ▶️ Cara Menjalankan
 ```bash
 flutter pub get
-flutter run
+flutter run```
 
 ---
 
